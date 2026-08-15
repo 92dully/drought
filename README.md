@@ -54,4 +54,4 @@ A few details are still pending from the business and are marked accordingly in 
 
 ## Credits
 
-Built by [92dully](https://github.com/92DULLY).
+Built by [Abdullah Ahmad](https://abdullahahmad.co.uk).
